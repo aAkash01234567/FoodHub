@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/foodhub/static/css/main.44aea38e.css",
+    "main.js": "/foodhub/static/js/main.aa765a89.js",
+    "index.html": "/foodhub/index.html",
+    "main.44aea38e.css.map": "/foodhub/static/css/main.44aea38e.css.map",
+    "main.aa765a89.js.map": "/foodhub/static/js/main.aa765a89.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.44aea38e.css",
+    "static/js/main.aa765a89.js"
+  ]
+}
