@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/foodhub/static/css/main.44aea38e.css",
-    "main.js": "/foodhub/static/js/main.aa765a89.js",
+    "main.css": "/foodhub/static/css/main.52a66947.css",
+    "main.js": "/foodhub/static/js/main.63d33f7e.js",
     "index.html": "/foodhub/index.html",
-    "main.44aea38e.css.map": "/foodhub/static/css/main.44aea38e.css.map",
-    "main.aa765a89.js.map": "/foodhub/static/js/main.aa765a89.js.map"
+    "main.52a66947.css.map": "/foodhub/static/css/main.52a66947.css.map",
+    "main.63d33f7e.js.map": "/foodhub/static/js/main.63d33f7e.js.map"
   },
   "entrypoints": [
-    "static/css/main.44aea38e.css",
-    "static/js/main.aa765a89.js"
+    "static/css/main.52a66947.css",
+    "static/js/main.63d33f7e.js"
   ]
 }
